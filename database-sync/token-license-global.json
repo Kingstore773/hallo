@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "tokens": [
+    {
+      "tokenHash": "cfb8a18d0e3353cd0dd5c964ef3add848163eda9e66853925bf82b05128e3567",
+      "tokenPreview": "76381296...HABk",
+      "active": true,
+      "addedAt": 1766532000000,
+      "activeAfter": 1766532000000,
+      "addedBy": "8103364717",
+      "note": "BOOTSTRAP",
+      "updatedAt": 0
+    },
+    {
+      "tokenHash": "fbf55f0b1556d7945944ec1fcdcf24ee4f030bbae2065359f9b9eab4ee1bf52a",
+      "tokenPreview": "85947582...j1Tc",
+      "active": true,
+      "addedAt": 1771762047669,
+      "activeAfter": 1771762047669,
+      "addedBy": "8103364717",
+      "note": "MANUAL_VERIFY",
+      "updatedAt": 0
+    },
+    {
+      "tokenHash": "409fdd664c4cedfd984ab42a8d0b6004dd7c69a3f8a2a5a0cece6d28d7262888",
+      "tokenPreview": "76381296...9YQk",
+      "active": true,
+      "addedAt": 1771906477625,
+      "activeAfter": 1771907017625,
+      "addedBy": "8103364717",
+      "updatedAt": 1771906477625,
+      "note": "owner_addtoken"
+    }
+  ],
+  "updatedAt": 1771906477625,
+  "source": "local-legacy",
+  "lastSyncAt": 1771906411580,
+  "lastSyncStatus": "pull_failed:startup",
+  "lastSyncError": "Request failed with status code 404"
+}
